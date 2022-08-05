@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Leetcode
-- 📫 How to reach me -> gourav27jamwal@gmail.com
+- 📫 How to reach me -> gourav2708jamwal@gmail.com
 
 <!---
 gouravjamwal/gouravjamwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
